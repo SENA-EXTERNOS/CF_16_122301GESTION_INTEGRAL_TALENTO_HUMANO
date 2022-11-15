@@ -100,7 +100,7 @@
           h4(data-aos="fade-down").mb-0 Leyes, decretos, resoluciones
 
         .col-lg-2(data-aos="flip-left").mb-3
-          img(src='@/assets/curso/temas/tema5/t5-3.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema5/t5-3.svg', alt='Texto que describa la imagen')
         .col-lg-10
           p Los decretos son actos administrativos y están dentro de lo que compete a los líderes de los poderes ejecutivos. Generalmente los mandatarios usan un decreto para hacer nombramientos y regulaciones de leyes. Según el artículo 150 de la Constitución Política de Colombia “es el congreso al que le corresponde hacer las leyes, en un marco democrático y social. Existen tres poderes públicos: el ejecutivo, judicial y legislativo; este último pertenece al Congreso de la República”.
 

@@ -8,9 +8,9 @@
       h1 Documentos soporte
 
     .row.justify-content-center.mt-3
-      .col-lg-10
-        .bloque-texto-g.color-primario.p-2.p-sm-4.p-md-5
-          .bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema7/t7-1.png')})`}")
+      .col-lg-11
+        .bloque-texto-g.color-primario.p-1.p-sm-4.p-md-5
+          .blq3.bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema7/t7-1.png')})`}")
           .bloque-texto-g__texto.p-4
             p Este documento tiene la finalidad de acreditar la demanda de un bien o servicio, se debe generar por el comprador cuando hace transacciones con un proveedor que no está obligado a expedir factura de venta o documento equivalente. Este se debe expedir por medio de un escrito que contenga numeración autorizada por la Dian; en el caso de que la empresa o la prestadora del servicio no estén obligados a emitir facturación. 
 
@@ -48,7 +48,7 @@
       .bgp-degradado.p-1(data-aos="fade-right").mb-5
         h4(data-aos="fade-down").mb-0 Definición y características
       .col-lg-2(data-aos="flip-left").mb-5
-        img(src='@/assets/curso/temas/tema7/t7-2.png', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/temas/tema7/t7-2.svg', alt='Texto que describa la imagen')
       .col-lg-10
         p Los documentos soporte son los que se generan durante el vínculo contractual o la relación laboral identificando los pagos que se realizan a los trabajadores o a las entidades en las cuales se encuentra afiliados y por lo tanto se deben conservar.
       
@@ -63,7 +63,7 @@
       .bgp-degradado.p-1(data-aos="fade-right").mb-5
         h4(data-aos="fade-down").mb-0 Clasificación, vigencia, conservación de los soportes
       .col-lg-2(data-aos="flip-left").mb-5
-        img(src='@/assets/curso/temas/tema7/t7-2.png', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/temas/tema7/t7-4.svg', alt='Texto que describa la imagen')
       .col-lg-10
         p Los documentos soporte son los que se generan durante el vínculo contractual o la relación laboral identificando los pagos que se realizan a los trabajadores o a las entidades en las cuales se encuentra afiliados y por lo tanto se deben conservar.
       

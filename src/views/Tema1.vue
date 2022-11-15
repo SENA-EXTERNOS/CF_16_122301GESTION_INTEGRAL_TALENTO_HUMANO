@@ -11,7 +11,7 @@
       .row.justify-content-center.mb-3
         .col-lg-4.justify-content-center.animacion
           figure
-            img(src='@/assets/curso/temas/int-i1.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema1/t1-1.png', alt='Texto que describa la imagen')
         .col-lg-8.col-xs-6.mt-2
           .cajon.color-acento-contenido2.p-4
             p Es necesario iniciar abordando las novedades de nómina, estas son los reportes que detallan y especifican cualquier hecho de remuneración de los trabajadores. Este informe especifica la información de los pagos que se realizan a los empleados como las vacaciones, licencias, sindicatos, seguros, préstamos, entre otros.
@@ -53,7 +53,7 @@
 
       .row.justify-content-center.mt-5
         .col-lg-2
-          img(src='@/assets/curso/temas/tema1/t1-3.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema1/t1-3.svg', alt='Texto que describa la imagen')
         .col-lg-10
           p Es importante tener en cuenta que cuando hay un cambio en los datos en el contrato laboral de una persona se pueden presentar novedades de nómina, lo cual conlleva a un cambio en los pagos que se generan por el concepto de nómina.
         p.mt-3 A continuación, se mencionan seis tipos de novedades a tener en cuenta:

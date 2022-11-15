@@ -18,7 +18,7 @@
       .bgp-degradado.p-1(data-aos="fade-right").mb-5
         h4(data-aos="fade-down").mb-0 Definición
       .col-lg-2(data-aos="flip-left").mb-3
-        img(src='@/assets/curso/temas/tema6/t6-2.png', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/temas/tema6/t6-2.svg', alt='Texto que describa la imagen')
       .col-lg-10
         p Según la ley 100 de 1993 establece que el Sistema de Seguridad Social Integral “es el conjunto de instituciones, normas y procedimientos, de que disponen la persona y la comunidad para gozar de una calidad de vida, mediante el cumplimiento progresivo de los planes y programas que el Estado y la sociedad desarrollen para proporcionar la cobertura integral de las contingencias, especialmente las que menoscaban la salud y la capacidad económica, de los habitantes del territorio nacional, con el fin de lograr el bienestar individual y la integración de la comunidad”.
 
@@ -70,45 +70,47 @@
       .bgp-degradado.p-1(data-aos="fade-right").mb-5
         h4(data-aos="fade-down").mb-0 Sistemas y operadores de pago
       .col-lg-2(data-aos="flip-left").mb-3
-        img(src='@/assets/curso/temas/tema6/t6-4.png', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/temas/tema6/t6-4.svg', alt='Texto que describa la imagen')
       .col-lg-10
         p Los operadores PILA en Colombia son conocidos como operadores de información y se encargan de facilitar los pagos de seguridad social y aportes parafiscales. Están dirigidos a empresas, trabajadores, independientes, entidades oficiales y pensionados para que puedan registrar los aportes al sistema de seguridad social integral sin costo alguno y en un solo pago.
 
     .row.justify-content-center.mt-3
-      .col-lg-10
+      .col-lg-11
         .bloque-texto-g.color-primario.p-2.p-sm-4.p-md-5
-          .blq1.bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema6/t6-5.png')})`}")
-          .tema6.bloque-texto-g__texto.p-4
+          .blq2.bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema6/t6-5.png')})`}")
+          .tema6.bloque-texto-g__texto.p-3
             p De acuerdo con el Ministerio de Salud y Protección Social, los sistemas operadores de pago autorizados son los siguientes:
             br
-            .row.justify-content-center
-              .col-lg-6
-                ul.lista-ul.ps-5
-                  li 
-                    i.fas.fa-angle-right.vineta-morada
-                    | SOI
-                  br
-                  li 
-                    i.fas.fa-angle-right.vineta-morada
-                    | Mi planilla
-                  li 
-                    i.fas.fa-angle-right.vineta-morada
-                    | Aportes en línea
-                  li 
-                    i.fas.fa-angle-right.vineta-morada
-                    | Asopagos
-              .col-lg-6
-                ul.lista-ul.ps-5
-                  li 
-                    i.fas.fa-angle-right.vineta-morada
-                    | Fedecajas
-                  br
-                  li 
-                    i.fas.fa-angle-right.vineta-morada
-                    | Simple
-                  li 
-                    i.fas.fa-angle-right.vineta-morada
-                    | Arus (Enlace operativo).
+            .col-lg-10
+              .row.justify-content-center
+                .col-lg-2
+                .col-lg-5
+                  ul.lista-ul.ps-3
+                    li.mb-0
+                      i.fas.fa-angle-right.vineta-morada
+                      | SOI
+                    br
+                    li.mb-0
+                      i.fas.fa-angle-right.vineta-morada
+                      | Mi planilla
+                    li.mb-0
+                      i.fas.fa-angle-right.vineta-morada
+                      | Aportes en línea
+                    li.mb-0
+                      i.fas.fa-angle-right.vineta-morada
+                      | Asopagos
+                .col-lg-5
+                  ul.lista-ul.ps-3
+                    li.mb-0
+                      i.fas.fa-angle-right.vineta-morada
+                      | Fedecajas
+                    br
+                    li.mb-0
+                      i.fas.fa-angle-right.vineta-morada
+                      | Simple
+                    li.mb-0
+                      i.fas.fa-angle-right.vineta-morada
+                      | Arus (Enlace operativo).
                                         
 
 

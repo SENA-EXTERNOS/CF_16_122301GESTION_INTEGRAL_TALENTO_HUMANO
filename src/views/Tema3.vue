@@ -54,7 +54,7 @@
 
       .row.justify-content-center.mt-5
         .col-lg-2(data-aos="flip-left").mb-3
-          img(src='@/assets/curso/temas/tema3/t3-9.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema3/t3-9.svg', alt='Texto que describa la imagen')
         .col-lg-10
           p Desde el área de recursos humanos se debe tener claro la base, fórmula y periodos de pago de las prestaciones sociales que la empresa debe pagar de forma obligatoria a sus empleados. A continuación, se definen los porcentajes para cada prestación social según la ley:
 
