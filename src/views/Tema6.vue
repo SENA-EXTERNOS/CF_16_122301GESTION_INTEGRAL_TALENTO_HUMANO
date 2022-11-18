@@ -61,7 +61,6 @@
             p La cobertura del sistema comienza el día calendario posterior al registro. 
 
     .row.justify-content-center.mt-5
-      p El Sistema General de Riesgos Profesionales establecido en el decreto 1295, este forma parte del SSSI y es el conjunto de entidades públicas y privadas, normas y procedimientos, destinados a prevenir, proteger y atender a los trabajadores de los efectos de las enfermedades y los accidentes que puedan ocurrirles con ocasión o como consecuencia del trabajo que desarrollan. A continuación, encontrará las principales características de este sistema:
       .col-lg-9.mt-3
         .cajon.color-acento-contenido1.p-4
           p Es fundamental recordar que los empresarios sólo pueden contratar seguros de responsabilidad profesional para todos sus trabajadores con una única entidad gestora de riesgos, y sin perjuicio de las facultades que estas entidades gestoras tienen para contratar con otras entidades en caso de ser necesario.

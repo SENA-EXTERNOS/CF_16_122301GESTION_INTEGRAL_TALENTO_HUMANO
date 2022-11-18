@@ -60,13 +60,13 @@
           img(src="@/assets/curso/temas/tema7/t7-3.png", alt="alt")
 
     .row.justify-content-center.mt-5
-      .bgp-degradado.p-1(data-aos="fade-right").mb-5
+      .bgp-degradado.p-1(data-aos="fade-right").mb-3
         h4(data-aos="fade-down").mb-0 Clasificación, vigencia, conservación de los soportes
-      .col-lg-2(data-aos="flip-left").mb-5
+      //.col-lg-2(data-aos="flip-left").mb-5
         img(src='@/assets/curso/temas/tema7/t7-4.svg', alt='Texto que describa la imagen')
-      .col-lg-10
+      //.col-lg-10
         p Los documentos soporte son los que se generan durante el vínculo contractual o la relación laboral identificando los pagos que se realizan a los trabajadores o a las entidades en las cuales se encuentra afiliados y por lo tanto se deben conservar.
-      
+
       p Como documentos soporte se pueden mencionar los siguientes:
 
     .col-lg-10
@@ -102,8 +102,10 @@
             li 
               i.fas.fa-angle-right.vineta-morada
               | Horas extras.
-
     .row.justify-content-center.mt-5
+      p El Decreto 1072 de 2015, en su artículo 2.2.4.6.13, establece que los registros y documentos que soportan el SG-SST deben ser conservados durante 20 años a partir de que cese la relación laboral del trabajador con la empresa.
+
+    .row.justify-content-center.mt-2
       p El siguiente artículo tiene como fin establecer la conservación de los documentos:
       p #[strong Artículo 2.2.4.6.13. Conservación de los documentos.] #[em El empleador debe conservar los registros y documentos que soportan el SG-SST de manera controlada, garantizando que sean legibles, fácilmente identificables y accesibles, protegidos contra daño, deterioro o pérdida…Los siguientes documentos y registros, deben ser conservados por un periodo mínimo de veinte (20) años, contados a partir del momento en que cese la relación laboral del trabajador con la empresa.]
       .col-lg-9.mt-3

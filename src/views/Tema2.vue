@@ -27,10 +27,10 @@
                 | Actividades: información para procesar o pasos que se requieren para realizar una tarea o función.
               li 
                 i.fas.fa-angle-right.vineta-morada
-                | Recursos humanos: Información del personal.
+                | Recursos humanos: información del personal.
               li 
                 i.fas.fa-angle-right.vineta-morada
-                | Recursos informáticos: Información que está basada en la tecnología.
+                | Recursos informáticos: información que está basada en la tecnología.
 
       .row.justify-content-center.mt-5
         p Es importante distinguir entre un sistema de información y un sistema informático, ya que ambos tienen funciones diferentes, y no necesariamente los sistemas de información pasan por la informática.
@@ -58,7 +58,7 @@
           img(src='@/assets/curso/temas/tema2/t2-3.svg', alt='Texto que describa la imagen')
         .col-lg-10
           p Entre los sistemas de información dignos de mención se encuentran los de #[strong información de procesamiento de transacciones, información ejecutiva, información de gestión, soporte de decisiones, gestión de conocimiento, gestión de documentos, gestión de contenido, automatización de oficinas, planificación de recursos comerciales, expertos sistema, toma de decisiones grupal e información en #[em marketing] y comunicación.] Los anteriores tipos se utilizan de acuerdo a la necesidad que tenga la organización como en el sector financiero, tecnológico, talento humano, área de materiales, departamentos administrativos, comunicaciones, área documental, planificación de recursos empresariales, toma de decisiones, información de expertos, entre otros.
-        p.mt-3 A continuación, se hace énfasis en las fases de un sistema de información:
+        p.mt-3 A continuación, se explican los doce sistemas de información:
 
       .row.justify-content-center.mb-5
         .col-lg-10
@@ -89,7 +89,7 @@
                       img(src="@/assets/curso/temas/tema2/t2-6.png", alt="alt")
                   .col
                     h5 Sistemas de información gerencial
-                    p Este tipo de sistema de información apoya a la toma de decisiones realizando un análisis de datos en las áreas de talento humano, marketing, logística, financiera, entre otras.
+                    p Este tipo de sistema de información apoya a la toma de decisiones realizando un análisis de datos en las áreas de talento humano, #[em marketing], logística, financiera, entre otras.
                 .hr--line 
               .py-4
                 .row.align-items-center
@@ -134,8 +134,8 @@
                     figure
                       img(src="@/assets/curso/temas/tema2/t2-11.png", alt="alt")
                   .col
-                    h5.mb-1 Sistema de automatización de oficinas
-                    p.mb-0 Entre las actividades diarias ejecutadas de manera diaria en las oficinas están el comunicarse con los clientes internos y externos o utilizar documentación de un departamento a otro.
+                    h5 Sistema de automatización de oficinas
+                    p Entre las actividades diarias ejecutadas de manera diaria en las oficinas están el comunicarse con los clientes internos y externos o utilizar documentación de un departamento a otro.
                 .hr--line                  
               .py-4
                 .row.align-items-center
@@ -143,8 +143,8 @@
                     figure
                       img(src="@/assets/curso/temas/tema2/t2-12.png", alt="alt")
                   .col
-                    h6.mb-1 Sistema de planificación de recursos empresariales
-                    p.mb-1 Su finalidad es acceder a los datos en los distintos departamentos de la empresa para mejorar los procesos y funciones innecesarias; así tener un mejor aprovechamiento del tiempo en las actividades.
+                    h6.mb-3 Sistema de planificación de recursos empresariales
+                    p.mb-3 Su finalidad es acceder a los datos en los distintos departamentos de la empresa para mejorar los procesos y funciones innecesarias; así tener un mejor aprovechamiento del tiempo en las actividades.
                 .hr--line 
               .py-4
                 .row.align-items-center

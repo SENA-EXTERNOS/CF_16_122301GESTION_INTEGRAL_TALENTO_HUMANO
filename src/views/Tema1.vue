@@ -28,8 +28,7 @@
                     p.mb-0 El Decreto debe ser implementado por las instituciones de promoción de la salud, los prestadores de servicios de salud, los empleadores cotizantes, los afiliados cotizantes, el administrador financiero del sistema general de seguridad social en el ámbito de la salud (ADRES) y el departamento de administración de pensiones y contribuciones parafiscales.
                 .row(titulo="Licencia de maternidad")
                   .col-12.ps-5
-                    p.mb-0 Para pagar las prestaciones económicas y reconocer el embarazo durante el parto, se requiere documento de afiliación, que consta la inscripción al régimen general del seguro social en salud como cotizante, cotizar durante los meses correspondientes al período de embarazo, certificado de licencia de maternidad.
-                    p.mb-0 Esta última se reconoce con la condición de que se pague su monto total después del inicio de la licencia.
+                    p.mb-0 Para pagar las prestaciones económicas y reconocer el embarazo durante el parto, se requiere documento de afiliación, que consta la inscripción al régimen general del seguro social en salud como cotizante, cotizar durante los meses correspondientes al período de embarazo, certificado de licencia de maternidad. Esta última se reconoce con la condición de que se pague su monto total después del inicio de la licencia.
                 .row(titulo="Licencia de paternidad")
                   .col-12.ps-5
                     p.mb-0 Debe tomarse dentro de los 30 días siguientes al nacimiento del menor o custodia oficial del menor adoptado. Se debe presentar ante la entidad promotora de salud o la entidad adaptada a más tardar dentro de los 30 días siguientes a la fecha del nacimiento o de la entrega oficial del menor adoptado, el registro civil de nacimiento del menor o del acta en la que conste su entrega oficial entidad.

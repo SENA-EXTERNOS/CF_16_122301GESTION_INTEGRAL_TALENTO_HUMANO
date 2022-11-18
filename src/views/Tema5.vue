@@ -19,19 +19,19 @@
               p La #[strong seguridad social] es el derecho que tiene el trabajador en cuanto a salud, pensión, riesgos labores y caja de compensación. Está establecido por los regímenes generales (ver Tablas 1 y 2):
 
       .row.justify-content-around.align-items-center.mt-5
-        .col-lg-8(data-aos="zoom-in-down")
+        .col-lg-9(data-aos="zoom-in-down")
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 1.
-            span Paralelo entre accidentes e incidentes partiendo de unas situaciones particulares
+            span Porcentajes de contribución para empleados de tiempo completo
           
           .tabla-a.color-primario.mt-5
-            table
-              thead.text-center
-                tr
-                  th.color-tabla-transparente 
-                  th.color-tabla Empleador/a
-                  th.color-tabla Trabajador/a
-                  th.color-tabla Total
+            table.espacio.tabla-a
+              thead.text-center.mb-0
+                tr.mb-0
+                  th.color-tabla-transparente.mb-0
+                  th.mb-0.color-tabla Empleador/a
+                  th.mb-0.color-tabla Trabajador/a
+                  th.mb-0.color-tabla Total
               tbody
                 tr
                   td Pensiones
@@ -60,7 +60,7 @@
                   td.text-center 33%
 
       .row.justify-content-around.align-items-center.mt-5
-        .col-lg-5(data-aos="zoom-in-up")
+        .col-lg-6(data-aos="zoom-in-up")
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Tabla 2.
             span Clases de riesgos laborales
