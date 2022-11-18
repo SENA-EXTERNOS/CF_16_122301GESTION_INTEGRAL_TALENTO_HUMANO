@@ -128,7 +128,7 @@
                     h5 Sistema de gestión de contenidos
                     p.mb-4 En este tipo de sistema se maneja en la elaboración, organización y difusión de la información, y se implementa en sitios donde se maneja el diseño web.
                 .hr--line            
-              .py
+              .py-4
                 .row.align-items-center
                   .col-auto
                     figure
