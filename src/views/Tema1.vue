@@ -31,7 +31,7 @@
                     p.mb-0 Para pagar las prestaciones económicas y reconocer el embarazo durante el parto, se requiere documento de afiliación, que consta la inscripción al régimen general del seguro social en salud como cotizante, cotizar durante los meses correspondientes al período de embarazo, certificado de licencia de maternidad. Esta última se reconoce con la condición de que se pague su monto total después del inicio de la licencia.
                 .row(titulo="Licencia de paternidad")
                   .col-12.ps-5
-                    p.mb-0 Debe tomarse dentro de los 30 días siguientes al nacimiento del menor o custodia oficial del menor adoptado. Se debe presentar ante la entidad promotora de salud o la entidad adaptada a más tardar dentro de los 30 días siguientes a la fecha del nacimiento o de la entrega oficial del menor adoptado, el registro civil de nacimiento del menor o del acta en la que conste su entrega oficial entidad.
+                    p.mb-0 Debe tomarse dentro de los 30 días siguientes al nacimiento o custodia oficial del menor adoptado. Se debe presentar ante la entidad promotora de salud, o la entidad adaptada, el registro civil o el acta donde conste su entrega oficial en un tiempo no mayor al mencionado anteriormente.
                     p.mb-0.mt-2 Para reconocer el permiso de paternidad y el pago, el cotizante debe registrar los aportes en los meses correspondientes al período de gestación de la madre, de lo contrario habrá lugar al reconocimiento de la licencia de paternidad siempre y cuando, a la fecha del parto, se haya pagado la totalidad de las cotizaciones adeudadas con los respectivos intereses de mora.
                 .row(titulo="Incapacidad de origen común")
                   .col-12.ps-5

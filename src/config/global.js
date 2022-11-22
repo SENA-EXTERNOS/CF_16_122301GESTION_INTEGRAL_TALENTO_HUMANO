@@ -264,21 +264,15 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Trabajo. (2021). <em>Cotización a la Seguridad social – Aportes.</em>',
-      link:
-        'https://www.mintrabajo.gov.co/empleo-y-pensiones/empleo/subdireccion-deformalizacion-y-proteccion-del-empleo/formalizacion-laboral/cotizacion-a-la-seguridadsocial-aportes',
-    },
-    {
-      referencia:
-        'Ministerio de Trabajo. (2021). <em>Cotización a la Seguridad social – Aportes.</em>',
+        'Ministerio de Trabajo. (2022). <em>Cotización a la Seguridad social – Aportes.</em>',
       link:
         'https://www.mintrabajo.gov.co/empleo-y-pensiones/empleo/subdireccion-de-formalizacion-y-proteccion-del-empleo/formalizacion-laboral/cotizacion-a-la-seguridad-social-aportes',
     },
     {
       referencia:
-        'Portafolio (2012). <em>Plazo para implementar la nómina electrónica.</em>',
+        'Portafolio (2022). <em>Plazo para implementar la nómina electrónica.</em>',
       link:
-        'https://www.portafolio.com/economia/dian-fija-plazos-para-la-implementacion-de-lanomina-electronica-en-2021-548366',
+        'https://www.portafolio.co/mas-contenido/nuevo-plazo-de-nomina-electronica-para-pequenas-empresas-562592',
     },
   ],
   creditos: {
