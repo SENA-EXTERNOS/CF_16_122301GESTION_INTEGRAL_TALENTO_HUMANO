@@ -26,7 +26,9 @@
       .bgp-degradado.p-1(data-aos="fade-right").mb-5
         h4(data-aos="fade-down").mb-0 Caracteristicas
       
-      p El Sistema General de Riesgos Profesionales establecido en el decreto 1295, este forma parte del SSSI y es el conjunto de entidades públicas y privadas, normas y procedimientos, destinados a prevenir, proteger y atender a los trabajadores de los efectos de las enfermedades y los accidentes que puedan ocurrirles con ocasión o como consecuencia del trabajo que desarrollan. A continuación, encontrará las principales características de este sistema:
+      p El Sistema General de Riesgos Profesionales establecido en el decreto 1295, este forma parte del SSSI y es el conjunto de entidades públicas y privadas, normas y procedimientos, destinados a prevenir, proteger y atender a los trabajadores de los efectos de las enfermedades y los accidentes que puedan ocurrirles con ocasión o como consecuencia del trabajo que desarrollan.
+
+      p A continuación, encontrará las principales características de este sistema: 
 
     .row.justify-content-center.mt-5
       .col-lg-7

@@ -16,8 +16,7 @@
         .cajon.color-acento-contenido1.p-4
           p Lo anterior evita la creación de una relación laboral en la que las partes, es decir, el empleador y el trabajador, se comprometen a cumplir varios requisitos. Respecto del primero, está esencialmente obligado a pagar al trabajador una remuneración mensual por la prestación de los servicios además de los demás pagos que señale la ley. Los patrones que no cumplan con sus obligaciones están sujetos a severas sanciones por parte de los órganos judiciales y administrativos que garantizan los derechos de los trabajadores.
         p.mt-3 Entre las que se deben tener en cuenta están las herramientas necesarias para hacer el trabajo, pago de seguros sociales,  prestaciones sociales y la asistencia de transporte. Además de lo anterior, el empleador debe realizar los pagos convenidos mediante convenciones colectivas o acuerdos con los trabajadores.
-      p.mt-3 En el siguiente video encontrará los costos laborales más importantes que se deben pagar al trabajador.
-
+      p.mt-3 En el siguiente video, se explican los costos laborales más importantes que se deben pagar al trabajador:
     .row.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

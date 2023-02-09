@@ -13,9 +13,12 @@
           .bloque-texto-g.color-primario.p-2.p-sm-4.p-md-5
             .blq1.bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/t2-1.png')})`}")
             .bloque-texto-g__texto.p-4
-              p Para continuar, es necesario conocer acerca de los sistemas de información, los cuales son conjuntos de datos que se relacionan entre sí con el objetivo de administrar la información de forma fácil, rápida y segura; sirviendo de apoyo en los procesos que la empresa realiza. Están compuestos por una serie de recursos que están en interacción con el propósito de procesar información estadística, organizar archivos u obtener información personal. Dichos recursos pueden ser:
+              p Para continuar, es necesario conocer acerca de los sistemas de información, los cuales son conjuntos de datos que se relacionan entre sí con el objetivo de administrar la información de forma fácil, rápida y segura; sirviendo de apoyo en los procesos que la empresa realiza. Están compuestos por una serie de recursos que están en interacción con el propósito de procesar información estadística, organizar archivos u obtener información personal. 
 
-      .row.justify-content-center.mt-5
+      .row.mt-5
+        p Dichos recursos pueden ser:
+      
+      .row.justify-content-center.mt-3
         .col-lg-9
           .cajon.color-acento-contenido1.p-4
             ul.lista-ul.ps-5
@@ -57,7 +60,8 @@
         .col-lg-2
           img(src='@/assets/curso/temas/tema2/t2-3.svg', alt='Texto que describa la imagen')
         .col-lg-10
-          p Entre los sistemas de información dignos de mención se encuentran los de #[strong información de procesamiento de transacciones, información ejecutiva, información de gestión, soporte de decisiones, gestión de conocimiento, gestión de documentos, gestión de contenido, automatización de oficinas, planificación de recursos comerciales, información para expertos, toma de decisiones grupal e información en #[em marketing] y comunicación]. Los anteriores tipos se utilizan de acuerdo a la necesidad que tenga la organización como en el sector financiero, tecnológico, talento humano, área de materiales, departamentos administrativos, comunicaciones, área documental, planificación de recursos empresariales, toma de decisiones, información de expertos, entre otros.
+          p Entre los sistemas de información, dignos de mención, se encuentran los de #[b información de procesamiento de transacciones, información ejecutiva, información de gestión, soporte de decisiones, gestión de conocimiento, gestión de documentos, gestión de contenido, automatización de oficinas, planificación de recursos comerciales, información para expertos, toma de decisiones grupal e información en marketing y en comunicación]. Los anteriores sistemas se utilizan, de acuerdo con la necesidad que tenga la organización, en el sector financiero, tecnológico, talento humano, área de materiales, departamentos administrativos, comunicaciones, área documental, planificación de recursos empresariales, toma de decisiones, información de expertos, entre otros.
+
         p.mt-3 A continuación, se explican los doce sistemas de información:
 
       .row.justify-content-center.mb-5

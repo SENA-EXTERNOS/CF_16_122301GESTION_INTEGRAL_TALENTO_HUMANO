@@ -13,16 +13,19 @@
           .bloque-texto-g.color-primario.p-2.p-sm-4.p-md-5
             .blq1.bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema5/t5-1.png')})`}").animacion
             .bloque-texto-g__texto.p-4
-              p La #[strong nómina] son los pagos llamados sueldos, salarios o remuneración a los empleados de una organización. Se pueden realizar quincenal o mensualmente, incluyendo las bonificaciones y las deducciones. La nómina, en contabilidad, es el pago que se hace a los trabajadores por el desempeño de sus funciones en un tiempo determinado
+              p La #[strong nómina] son los pagos llamados sueldos, salarios o remuneración a los empleados de una organización. Se pueden realizar quincenal o mensualmente, incluyendo las bonificaciones y las deducciones. La nómina, en contabilidad, es el pago que se hace a los trabajadores por el desempeño de sus funciones en un tiempo determinado.
               br
               br
-              p La #[strong seguridad social] es el derecho que tiene el trabajador en cuanto a salud, pensión, riesgos labores y caja de compensación. Está establecido por los regímenes generales (ver Tablas 1 y 2):
+              p La #[strong seguridad social]  es el derecho que tiene el trabajador en cuanto a salud, pensión, riesgos labores y caja de compensación. Está establecido por los regímenes generales.
 
+      .row.mt-5
+        p En las siguientes dos tablas conozca, en detalle, los porcentajes de contribución para empleados de tiempo completo y las clases de riesgos laborales, respectivamente:
+      
       .row.justify-content-around.align-items-center.mt-5
         .col-lg-9(data-aos="zoom-in-down")
           .titulo-sexto.color-acento-contenido.mb-3
-            h5 Tabla 1.
-            span Porcentajes de contribución para empleados de tiempo completo
+            h5 Tabla 1
+            p #[i Paralelo entre accidentes e incidentes partiendo de unas situaciones particulares]
           
           .tabla-a.color-primario.mt-5
             table.espacio.tabla-a
@@ -62,8 +65,8 @@
       .row.justify-content-around.align-items-center.mt-5
         .col-lg-6(data-aos="zoom-in-up")
           .titulo-sexto.color-acento-contenido.mb-3
-            h5 Tabla 2.
-            span Clases de riesgos laborales
+            h5 Tabla 2
+            p #[i Clases de riesgos laborales]
           
           .tabla-a.color-primario.mt-5
             table

@@ -20,8 +20,8 @@
           .cajon.color-acento-contenido2.p-4
             p De acuerdo con el #[strong Código Sustantivo del Trabajo, el artículo 306], dispone que toda empresa debe pagar a cada empleado un salario mensual, del cual quince días se deben pagar por tardar el último día del mes de junio y los quince días restantes en los primeros 20 días del mes de diciembre. Además, el artículo 29 indica que todo empleador debe pagar un auxilio de cesantías, que corresponde a un mes de salario por cada año de servicios y proporcionalmente por fracción de año y el decreto 1072 del 2015 en el artículo 2.2.1.3.13. determina la consignación de cesantías y pago intereses de cesantías. Por último el artículo 186 habla de las vacaciones anuales remuneradas, y es de aclarar que el numeral uno indica que “los trabajadores que hubieren prestado sus servicios durante un año tienen derecho a quince (15) días hábiles consecutivos de vacaciones remuneradas”.
       
-        p.mt-5 A continuación, conocerá acerca de las prestaciones sociales, sus ventajas y quiénes las componen.
-
+        p.mt-5 A continuación, conocerá más acerca de las prestaciones sociales:
+        
       .row.justify-content-center.mt-5(data-aos="zoom-in")
         TabsC.color-acento-contenido
           .py-4.py-md-4(titulo="Definición")

@@ -52,7 +52,7 @@
       .col-lg-10
         p Los documentos soporte son los que se generan durante el vínculo contractual o la relación laboral identificando los pagos que se realizan a los trabajadores o a las entidades en las cuales se encuentra afiliados y por lo tanto se deben conservar.
       
-      p Entre las características que deben tener los documentos soporte son:
+      p Entre las características que deben tener los documentos soporte, están:
 
     .row.justify-content-center.align-items-center.mb-5.mt-5.animacion
       .col-lg-8
