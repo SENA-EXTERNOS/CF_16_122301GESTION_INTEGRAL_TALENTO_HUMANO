@@ -89,22 +89,22 @@
                   ul.lista-ul.ps-3
                     li.mb-0
                       i.fas.fa-angle-right.vineta-morada
-                      | SOI
+                      | SOI.
                     br
                     li.mb-0
                       i.fas.fa-angle-right.vineta-morada
-                      | Mi planilla
+                      | Mi planilla.
                     li.mb-0
                       i.fas.fa-angle-right.vineta-morada
-                      | Aportes en línea
+                      | Aportes en línea.
                     li.mb-0
                       i.fas.fa-angle-right.vineta-morada
-                      | Asopagos
+                      | Asopagos.
                 .col-lg-5
                   ul.lista-ul.ps-3
                     li.mb-0
                       i.fas.fa-angle-right.vineta-morada
-                      | Fedecajas
+                      | Fedecajas.
                     br
                     li.mb-0
                       i.fas.fa-angle-right.vineta-morada

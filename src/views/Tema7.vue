@@ -57,7 +57,7 @@
     .row.justify-content-center.align-items-center.mb-5.mt-5.animacion
       .col-lg-8
         figure
-          img(src="@/assets/curso/temas/tema7/t7-3.png", alt="alt")
+          img(src="@/assets/curso/temas/tema7/img1.svg", alt="alt")
 
     .row.justify-content-center.mt-5
       .bgp-degradado.p-1(data-aos="fade-right").mb-3

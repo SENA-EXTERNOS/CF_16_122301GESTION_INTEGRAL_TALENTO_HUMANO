@@ -14,7 +14,7 @@
             img(src='@/assets/curso/temas/tema1/t1-1.png', alt='Texto que describa la imagen')
         .col-lg-8.col-xs-6.mt-2
           .cajon.color-acento-contenido2.p-4
-            p Es necesario iniciar abordando las novedades de nómina, estas son los reportes que detallan y especifican cualquier hecho de remuneración de los trabajadores. Este informe especifica la información de los pagos que se realizan a los empleados como las vacaciones, licencias, sindicatos, seguros, préstamos, entre otros.
+            p Es necesario iniciar abordando las novedades de nómina, estos son los reportes que detallan y especifican cualquier hecho de remuneración de los trabajadores. Este informe especifica la información de los pagos que se realizan a los empleados como las vacaciones, licencias, sindicatos, seguros, préstamos, entre otros.
           p.mt-5 Otras novedades a destacar son las emitidas por el #[strong Ministerio de Salud en el decreto 127 de 2022 del 29 de julio de 2022], que consta de la validez de las incapacidades de origen común y el reconocimiento y pago de las licencias de maternidad y paternidad. En este decreto se fijan plazos únicos para la revisión y liquidación de las solicitudes de reconocimiento de prestaciones económicas las cuales constan de quince días hábiles, y para el pago de estas al aportante se considera un plazo de cinco días hábiles; estableciendo el pago mediante transferencia electrónica.
         p.mt-5 A continuación, se describen las principales novedades de seguridad social descritas en la norma del Ministerio de Salud bajo el decreto 1427 de 2022:
    
