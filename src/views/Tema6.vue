@@ -108,7 +108,7 @@
                     br
                     li.mb-0
                       i.fas.fa-angle-right.vineta-morada
-                      | Simple
+                      | Simple.
                     li.mb-0
                       i.fas.fa-angle-right.vineta-morada
                       | Arus (Enlace operativo).
