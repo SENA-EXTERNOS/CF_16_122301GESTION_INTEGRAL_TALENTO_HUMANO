@@ -168,14 +168,6 @@ export default {
         'https://www.mintrabajo.gov.co/normatividad/leyes-y-decretos-ley/normas-fundamentales-sistema-de-seguridad-social-integral',
     },
     {
-      tema: 'Normativa nómina y seguridad social',
-      referencia:
-        'Ministerio de Trabajo. (2021). <em>Cotización a la Seguridad social – Aportes.</em>',
-      tipo: 'Página web',
-      link:
-        'https://www.mintrabajo.gov.co/empleo-y-pensiones/empleo/subdireccion-de-formalizacion-y-proteccion-del-empleo/formalizacion-laboral/cotizacion-a-la-seguridad-social-aportes',
-    },
-    {
       tema: 'Seguridad social integral',
       referencia: 'Suin juriscol. (1993). <em>Ley 100 de 1993</em>.',
       tipo: 'Página web',
