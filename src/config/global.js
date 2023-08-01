@@ -256,12 +256,6 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Trabajo. (2022). <em>Cotización a la Seguridad social – Aportes.</em>',
-      link:
-        'https://www.mintrabajo.gov.co/empleo-y-pensiones/empleo/subdireccion-de-formalizacion-y-proteccion-del-empleo/formalizacion-laboral/cotizacion-a-la-seguridad-social-aportes',
-    },
-    {
-      referencia:
         'Portafolio (2022). <em>Plazo para implementar la nómina electrónica.</em>',
       link:
         'https://www.portafolio.co/mas-contenido/nuevo-plazo-de-nomina-electronica-para-pequenas-empresas-562592',
