@@ -29,7 +29,7 @@
       .col-lg-2(data-aos="flip-left").mb-3
         img(src='@/assets/curso/temas/tema4/t4-2.svg', alt='Texto que describa la imagen')
       .col-lg-10
-        p Los aprendices SENA también están regidos por las normas laborales nacionales, por esto, las empresas deben informar el número de empleados para calcular el número de aprendices. Este aviso debe darse dentro de los primeros diez días de enero y julio, o marzo y septiembre. El viático pagado en la etapa de implementación corresponde a 75.1 L del SMLMV. Ley 789 de 2002 establece que, si la tasa de desempleo es igual o superior al 10 %, el viático se paga 75 L de SMLMV; sin embargo, el pago de aportes al régimen de Seguridad Social se calculará sobre la base de un (1) SMLMV.
+        p Los aprendices SENA también están regidos por las normas laborales nacionales, por esto, las empresas deben informar el número de empleados para calcular el número de aprendices. Este aviso debe darse dentro de los primeros diez días de enero y julio, o marzo y septiembre. El viático pagado en la etapa de implementación corresponde a 75.1 % del SMLMV. Ley 789 de 2002 establece que, si la tasa de desempleo es igual o superior al 10 %, el viático se paga 75 % de SMLMV; sin embargo, el pago de aportes al régimen de Seguridad Social se calculará sobre la base de un (1) SMLMV.
 
       .row.justify-content-center.mt-3
         .col-lg-10

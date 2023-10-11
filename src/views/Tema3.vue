@@ -69,7 +69,10 @@
               ul.lista-ul.mt-3
                 li 
                   i.fas.fa-angle-right.vineta-verde
-                  | Fórmula: (salario base * días hábiles) /360 Salario base: salario de apoyo publicitario (si lo recibe) promedio de horas extras (fórmula: (valor por semestre / (días hábiles-días libres)) * 30)                     
+                  | Fórmula:<br>
+                  | Prima = (salario base * días hábiles) / 360 dónde salario base = Salario de apoyo publicitario (si aplica) + promedio de horas extras.<br>
+                  |- Promedio de horas extras = (valor por semestre / (días hábiles - días libres)) * 30
+                     
             .col-xl-6
               figure
                 img(src='@/assets/curso/temas/tema3/t3-5.png', alt='Texto que describa la imagen')
@@ -82,7 +85,9 @@
               ul.lista-ul.mt-3
                 li 
                   i.fas.fa-angle-right.vineta-verde
-                  | Fórmula: (salario base * días hábiles) /360 salario base: salario auxiliar de promoción (si está empleado) promedio de horas extras (fórmula: (valor por semestre / (días hábiles)) * 30).
+                  | Fórmula:<br>
+                  | Cesantías = (salario base * días hábiles) /360 donde salario base = salario auxiliar de promoción (si está empleado) + promedio de horas extras.<br>
+                  | - Promedio de horas extras = (valor por semestre / (días hábiles)) * 30).
             .col-xl-6
               figure
                 img(src='@/assets/curso/temas/tema3/t3-6.png', alt='Texto que describa la imagen')
@@ -91,7 +96,7 @@
         .tarjeta.color-acento-contenido--borde.colorTab.p-3(style="background-color:#fdf4d1" titulo="Intereses a las cesantías")
           .row.p-4
             .col-xl-6
-              p Regulado de conformidad con el artículo 1 de la Ley 52 de 1975, constituye el reconocimiento económico del empleador por el mantenimiento anual de un valor igual a la indemnización por despido. Es igual a 12 I de la cuantía total anual del despido o en relación con la jornada laboral, y en caso de despido se da a más tardar 31 horas. 
+              p Regulado de conformidad con el artículo 1 de la Ley 52 de 1975, constituye el reconocimiento económico del empleador por el mantenimiento anual de un valor igual a la indemnización por despido. Es igual a 12% de la cuantía total anual del despido o en relación con la jornada laboral, y en caso de despido se da a más tardar 31 horas. 
               ul.lista-ul.mt-3
                 li 
                   i.fas.fa-angle-right.vineta-verde

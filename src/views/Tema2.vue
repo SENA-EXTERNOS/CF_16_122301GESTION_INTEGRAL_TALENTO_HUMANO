@@ -60,7 +60,7 @@
         .col-lg-2
           img(src='@/assets/curso/temas/tema2/t2-3.svg', alt='Texto que describa la imagen')
         .col-lg-10
-          p Entre los sistemas de información, dignos de mención, se encuentran los de #[b información de procesamiento de transacciones, información ejecutiva, información de gestión, soporte de decisiones, gestión de conocimiento, gestión de documentos, gestión de contenido, automatización de oficinas, planificación de recursos comerciales, información para expertos, toma de decisiones grupal e información en marketing y en comunicación]. Los anteriores sistemas se utilizan, de acuerdo con la necesidad que tenga la organización, en el sector financiero, tecnológico, talento humano, área de materiales, departamentos administrativos, comunicaciones, área documental, planificación de recursos empresariales, toma de decisiones, información de expertos, entre otros.
+          p Entre los sistemas de información, dignos de mención, se encuentran los de #[b información de procesamiento de transacciones, información ejecutiva, información de gestión, soporte de decisiones, gestión de conocimiento, gestión de documentos, gestión de contenido, automatización de oficinas, planificación de recursos comerciales, información para expertos, toma de decisiones grupal e información en #[em marketing] y en comunicación]. Los anteriores sistemas se utilizan, de acuerdo con la necesidad que tenga la organización, en el sector financiero, tecnológico, talento humano, área de materiales, departamentos administrativos, comunicaciones, área documental, planificación de recursos empresariales, toma de decisiones, información de expertos, entre otros.
 
         p.mt-3 A continuación, se explican los doce sistemas de información:
 
